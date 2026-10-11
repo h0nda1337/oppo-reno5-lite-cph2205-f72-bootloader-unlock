@@ -1,0 +1,25 @@
+# Device data and downloaded upstream sources must remain local.
+/private/
+/backups/
+/respaldos/
+/candidates/
+/preloader_path/
+/local/
+*.bin
+*.img
+*.raw
+*.elf
+*.ofp
+*.ozip
+*.zip
+*.log
+*.json
+*.pem
+*.key
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
